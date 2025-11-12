@@ -1,0 +1,13 @@
+Flask==3.0.0
+tensorflow==2.20.0
+opencv-python==4.10.0.84
+numpy==1.26.4
+Pillow==10.4.0
+Werkzeug==3.0.1
+uuid
+safetensors>=0.4.0
+diffusers>=0.30.0
+transformers>=4.40.0
+torch>=2.0.0
+trichomes>=3.0.0
+shapely>=2.0.0
